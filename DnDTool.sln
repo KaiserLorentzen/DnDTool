@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DnDTool", "DnDTool\DnDTool.csproj", "{7E8E689D-C76E-4049-817D-06F29FBF898F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E8E689D-C76E-4049-817D-06F29FBF898F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E8E689D-C76E-4049-817D-06F29FBF898F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E8E689D-C76E-4049-817D-06F29FBF898F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7E8E689D-C76E-4049-817D-06F29FBF898F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E8E689D-C76E-4049-817D-06F29FBF898F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E8E689D-C76E-4049-817D-06F29FBF898F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03F58CD6-EA2D-4869-9E1A-9D9DB0B12A9B}
+	EndGlobalSection
+EndGlobal
